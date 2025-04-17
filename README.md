@@ -11,7 +11,7 @@
 
 - 💬 Pergunte algo sobre mim? **Atualmente empenhado em aprender tudo sobre dados.**
 
-- 📫 Como me encontrar? Envie uma menagem: [**r.gomes@rg.dev.br**](emailto:r.gomes@rg.dev.br)
+- 📫 Como me encontrar? [**r.gomes@rg.dev.br**](emailto:r.gomes@rg.dev.br)
 
 - 📄 Você pode saber mais sobre minhas experiências: [https://www.linkedin.com/in/rgomes-dev/](https://www.linkedin.com/in/rgomes-dev/)
 
