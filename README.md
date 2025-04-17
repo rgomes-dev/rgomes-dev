@@ -1,17 +1,17 @@
-<h1 align="center">Oi 👋, Eu sou Ricardo Gomes</h1>
-<h3 align="center">Apaixonado por ciência de dados</h3>
+<h1 align="center">Olá 👋, Eu sou Ricardo Gomes</h1>
+<h3 align="center">Apaixonado por esse universo do código</h3>
 
-- 🔭 Atualmente desenvolvendo projetos pessoais que envolve dados **Projeto teste**
+- 🔭 Atualmente desenvolvendo projetos pessoais que envolve dados
 
-- Atualmento estou focado nos estudos em tudo que envolve a área de dados **Python, Pandas, Streamlit, Polty, Numpy, PyAutoGUI, Seaborn, Matplolib, Sqlite, linguagem SQL, Power BI...**
+- Focado nos estudos em tudo que envolve a área de dados **Python, Pandas, Streamlit, Polty, Numpy, PyAutoGUI, Seaborn, Matplolib, Sqlite, linguagem SQL, Power BI...**
 
-- 👯 Eu posso colaborar com seu tme para extrair diversos insights valiosos dos dados **Projeto teste**
+- 👯 Eu posso colaborar com seu tme para extrair diversos insights valiosos dos dados
 
-- 👨‍💻Você pode conhecer meu portfólio de projetos: [https://www.rg.dev.br](https://www.rg.dev.br)
+- 👨‍💻 Você pode conhecer meu portfólio de projetos: [https://www.rg.dev.br](https://www.rg.dev.br)
 
 - 💬 Pergunte algo sobre mim? **Atualmente empenhado em aprender tudo sobre dados.**
 
-- 📫 Como me encontrar? **r.gomes@rg.dev.br**
+- 📫 Como me encontrar? Envie uma menagem: [**r.gomes@rg.dev.br**](emailto:r.gomes@rg.dev.br)
 
 - 📄 Você pode saber mais sobre minhas experiências: [https://www.linkedin.com/in/rgomes-dev/](https://www.linkedin.com/in/rgomes-dev/)
 
